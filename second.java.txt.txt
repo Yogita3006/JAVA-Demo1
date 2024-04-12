@@ -1,0 +1,7 @@
+public class Second{
+void m1(){
+
+void m2(){
+}
+}
+}
